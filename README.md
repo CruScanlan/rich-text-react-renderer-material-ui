@@ -1,20 +1,7 @@
-# rich-text-react-renderer
+# rich-text-react-renderer-material-ui
 
-React renderer for the Contentful rich text field type.
-
-## Installation
-
-Using [npm](http://npmjs.org/):
-
-```sh
-npm install @contentful/rich-text-react-renderer
-```
-
-Using [yarn](https://yarnpkg.com/):
-
-```sh
-yarn add @contentful/rich-text-react-renderer
-```
+React renderer for the Contentful rich text field type with support for Material UI classes.
+This is a modification of [`@contentful/rich-text-react-renderer`](https://github.com/contentful/rich-text/tree/master/packages/rich-text-react-renderer).
 
 ## Usage
 
